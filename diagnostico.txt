@@ -1,0 +1,12 @@
+Nombre:gerson Tos Seca:si Fiebre:si Dificultad de respirar:si Su diagnostico es :75% Covid-19
+Nombre:roca Su diagnostico es :Gripe
+Nombre:ruano Su diagnostico es :Resfriado
+Nombre:Gerson Su diagnostico es :Libre de virus
+Nombre:Gerson Tos Seca:si Fiebre:si Dificultad de respirar:si Su diagnostico es :75% Covid-19
+Nombre:gerson Sintomas: Tos Seca, Fiebre, Dificultad de respirar  Su diagnostico es :75% Covid-19
+Nombre:Gerson Sintomas: Tos Seca, Fiebre, Dificultad de respirar  Su diagnostico es :75% Covid-19
+Nombre:Gerson Sintomas: Tos Seca, Fiebre, Dificultad de respirar  Su diagnostico es :75% Covid-19
+Nombre:Gerson Sintomas: Dolor muscular, Dolor de garganta, Fatiga,: Tos Seca,Fiebre Su diagnostico es :Gripe
+Nombre:Roca Sintomas: Dolor muscular, Dolor de garganta, Congestion Nasal, Estornudos Su diagnostico es :Resfriado
+Nombre:si Su diagnostico es :Presenta sintomas leves...
+Nombre:no Sintomas: Dolor muscular, Dolor de garganta, Dificultad a respirar, Dolor de cabeza, Fatiga Su diagnostico es:Requiere Cuarentena
